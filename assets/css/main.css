@@ -452,6 +452,11 @@ table td {
   width: 80%;
 }
 
+/* custom */
+.home-posts h2 {
+  text-align: center;
+}
+
 /* SINGLE */
 .post [role="doc-subtitle"] {
   font-size: 1.1em;
